@@ -1,0 +1,28 @@
+﻿ADIM 4,bolge,y_normal,x_normal,RGB_normal,RGB_golge,RGB_Sarı
+,P1 (Güneş yüzü - Sarı),832,775,"[192, 202, 78]","[171, 150, 57]","[217, 193, 66]"
+,P2 (Cübbe - Beyaz/Gri),942,775,"[162, 192, 201]","[155, 150, 156]","[190, 192, 187]"
+,P3 (Fayans - Zemin),432,395,"[168, 183, 180]","[188, 190, 187]","[191, 187, 175]"
+,hizalama_merkez_y_x,"(832, 775)","(874, 780)","(830, 762)"
+
+ADIM 5,isik,rgb_maske_roi_yuzde,hsv_maske_roi_yuzde
+,Normal,2.78,5.70
+,Gölge,4.22,5.26
+,Sarı,4.41,6.06
+ADIM 5 (tam kare),isik,rgb_yuzde,hsv_yuzde,roi_disi_rgb_px,roi_disi_hsv_px
+,Normal,0.033,0.068,0,0
+,Gölge,0.050,0.063,3,9
+,Sarı,0.632,0.276,17954,6333
+
+ADIM 6,olcum,deger
+,orijinal_ortalama,160.27
+,parlaklik40_beklenen,200.27
+,parlaklik40_olculen,200.23
+,kirpilan_kanal_degeri,80773.00
+,kirpilan_yuzde,0.87
+,gama05_ortalama,199.81
+,gama20_ortalama,105.19
+
+ADIM 7,yontem,MAE,laplacian_varyans
+,orijinal,,2084.13
+,INTER_NEAREST,22.24,1852.33
+,INTER_AREA,13.08,722.36
