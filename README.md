@@ -15,7 +15,7 @@ KAYNAKLAR
 - Ders notları, Hafta 1-2 (görüntünün sayısal temsili, renk uzayları, örnekleme)
 - OpenCV ve NumPy resmî belgeleri (cv2.inRange, cv2.resize, cv2.cvtColor)
 
-YAPAY ZEKÂ BEYANI
+YAPAY ZEKA BEYANI
 - Araç: Claude (Anthropic)
 - Amaç: Python kodunda hata ayıklama (Adım 6'da tanımsız total_pixels), güneş amblemini merkezine göre hizalama, ek ölçüm ve CSV kodu, rapor taslağı ve tablolar.
 - Etkilenen dosyalar: yzm411hw1.py (Adım 4-7, hizalama, ek ölçümler, CSV), YZM411_Odev1_Rapor.pdf metni.
